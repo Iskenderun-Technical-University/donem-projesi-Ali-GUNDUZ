@@ -1,0 +1,11 @@
+D:\Ayracım\Ayracım\bin\Debug\Ayracım.exe.config
+D:\Ayracım\Ayracım\bin\Debug\Ayracım.exe
+D:\Ayracım\Ayracım\bin\Debug\Ayracım.pdb
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.csproj.AssemblyReference.cache
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.csproj.SuggestedBindingRedirects.cache
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.Form1.resources
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.Properties.Resources.resources
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.csproj.GenerateResource.cache
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.csproj.CoreCompileInputs.cache
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.exe
+D:\Ayracım\Ayracım\obj\Debug\Ayracım.pdb
