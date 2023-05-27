@@ -86,5 +86,11 @@
   <ItemGroup>
     <None Include="Resources\Kapatma işareti.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Fotosu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Fotosu2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
