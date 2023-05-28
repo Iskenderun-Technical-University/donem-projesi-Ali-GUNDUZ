@@ -81,16 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Login Fotosu.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Kapatma işareti.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Login Fotosu1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Login Fotosu2.png" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
